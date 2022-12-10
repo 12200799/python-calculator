@@ -1,5 +1,5 @@
 # Program make a simple calculator
-
+#this program is to get a output by evaluating operands using operators such as -,+,*,/
 # This function adds two numbers
 def add(x, y):
     return x + y
